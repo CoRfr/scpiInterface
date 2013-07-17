@@ -28,6 +28,7 @@ class Multimeter(object):
         resp = self.ser.readline()
         return resp
 
+    
 
 if __name__ == "__main__":
     a = Multimeter()

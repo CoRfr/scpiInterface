@@ -8,3 +8,5 @@ There's a lot to be done. Right now, it just supports the following.
 
 This is an excellent guide on SCPI for those who want to build/read/add more.
 http://www.phas.ubc.ca/~phys409/HPManuals/HP34401A_RemoteGuide.pdf
+
+Error handling is completlely absent, the only reason I even wrote this and uploaded this is because I couldn't find something existing that would let me just take a couple of measurements off the multimeter.
